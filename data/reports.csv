@@ -1,0 +1,5 @@
+QuizID,QuizName,ClosedAt,Participants,TopPerformer,TopScore,AvgScore,TotalScore
+15, ETL,2019-10-14,4,Raj,3.0,1.6,3.0
+16, RPA,2019-10-14,4,Sheeja,4.0,2.0,4.0
+19, BA,2019-10-14,1,John,2,2.0,2.0
+17, SQL,2019-10-17,1,Raj,0.0,0.0,3
